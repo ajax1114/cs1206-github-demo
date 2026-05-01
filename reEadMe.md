@@ -12,13 +12,32 @@ Through this approach, users are guided to focus on high-priority tasks first wh
 
 **Group 3**
 
-| SR-Code  | Name                         | Duties/Responsibilities                       |
-   | -------- | ---------------------------- | --------------------------------------------- |
+<table align="center">
+  <tr>
+    <th>Photo</th>
+    <th>SR-Code</th>
+    <th>Name</th>
+    <th>Duties/Responsibilities</th>
+  </tr>
 
-<img src="dhymple.jpg" width="120px;"> | 25-04128 | Carandang, Dhymple Norshe F. | Documenter, Main Programmer, System Architect |
+  <tr align="center">
+    <td>
+      <img src="dhymple.jpg" width="120px">
+    </td>
+    <td>25-04128</td>
+    <td>Carandang, Dhymple Norshe F.</td>
+    <td>Documenter, Main Programmer, System Architect</td>
+  </tr>
 
-<img src="minerva.jpg" width="120px;"> | 25-09305 | Rabi, Minerva R.             | Documenter, Main Programmer, System Architect |
-
+  <tr align="center">
+    <td>
+      <img src="minerva.jpg" width="120px">
+    </td>
+    <td>25-09305</td>
+    <td>Rabi, Minerva R.</td>
+    <td>Documenter, Main Programmer, System Architect</td>
+  </tr>
+</table>
 ---
 
 ## ❗ Problem
