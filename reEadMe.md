@@ -15,7 +15,7 @@ Through this approach, users are guided to focus on high-priority tasks first wh
 | SR-Code  | Name                         | Duties/Responsibilities                       |
    | -------- | ---------------------------- | --------------------------------------------- |
 
-<img src="images/dhymple.jpg" width="120px;"> | 25-04128 | Carandang, Dhymple Norshe F. | Documenter, Main Programmer, System Architect |
+<img src="dhymple.jpg" width="120px;"> | 25-04128 | Carandang, Dhymple Norshe F. | Documenter, Main Programmer, System Architect |
 
 <img src="minerva.jpg" width="120px;"> | 25-09305 | Rabi, Minerva R.             | Documenter, Main Programmer, System Architect |
 
